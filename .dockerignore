@@ -1,0 +1,7 @@
+# Exclui pastas de compilação e caches
+**/bin/
+**/obj/
+.vscode/
+# Exclui o próprio Dockerfile e .dockerignore (não são necessários na imagem)
+Dockerfile
+.dockerignore

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Desafio.API.Controllers.InvestigacaoController",
+    "Method": "VerificarSuspeito",
+    "RelativePath": "Investigacao/suspeito",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Desafio.API.Models.CarteiraRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
