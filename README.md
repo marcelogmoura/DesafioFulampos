@@ -6,6 +6,11 @@ O objetivo deste projeto é desenvolver a lógica para identificar, no menor tem
 
 A solução foi implementada como uma **API RESTful em C# (.NET 8/ASP.NET Core)** e empacotada em um **Contêiner Docker** para fácil distribuição.
 
+## 📋 Requisitos e Documentação
+
+Os requisitos completos do teste técnico (prova) estão detalhados no documento oficial:
+* **[Enunciado.pdf](https://github.com/marcelogmoura/DesafioFulampos/blob/main/Desafio/enunciado.pdf)**
+
 ## 💻 Solução Técnica e Algoritmo
 
 ### Algoritmo: Dois Ponteiros (Two Pointers)
@@ -74,6 +79,12 @@ URL do Swagger: http://localhost:8000/swagger
 | Caso 1 | [10, 20, 50, 70, 80, 100, 150] | TRUE               |
 | Caso 2 | [5, 25, 50, 100, 200]           | TRUE               |
 | Caso 3 | [1, 2, 3, 147, 148, 149]        | TRUE               |
+
+![Resultado dos testes no Swagger](https://i.postimg.cc/Dw1Z9Zx8/Screenshot-2.jpg)
+
+![Resultado dos testes no Swagger](https://i.postimg.cc/s2yXsrLg/Screenshot-3.jpg)
+
+![Resultado dos testes no Swagger](https://i.postimg.cc/5t10bVrN/Screenshot-4.jpg)
 
 
 ---
