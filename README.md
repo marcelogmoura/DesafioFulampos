@@ -11,6 +11,11 @@ A solução foi implementada como uma **API RESTful em C# (.NET 8/ASP.NET Core)*
 Os requisitos completos do teste técnico (prova) estão detalhados no documento oficial:
 * **[Enunciado.pdf](https://github.com/marcelogmoura/DesafioFulampos/blob/main/Desafio/enunciado.pdf)**
 
+Após a entrega da primeira, recebi esse outro desafio, que acabei não conseguindo desenvolver.
+* **[segunda_etapa.pdf](https://github.com/marcelogmoura/DesafioFulampos/blob/main/Desafio/segunda_etapa.pdf)**
+
+
+
 ## 💻 Solução Técnica e Algoritmo
 
 ### Algoritmo: Dois Ponteiros (Two Pointers)
